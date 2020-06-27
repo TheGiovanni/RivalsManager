@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "989744808161",
+    "firebase_url": "https://rivalsmanager-6e1ff.firebaseio.com",
+    "project_id": "rivalsmanager-6e1ff",
+    "storage_bucket": "rivalsmanager-6e1ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989744808161:android:480fe1fa5665fffe49f7a0",
+        "android_client_info": {
+          "package_name": "com.example.rivalsmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989744808161-nk1ahtcc5app52ucce0nuicmqnu43noo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6lyB1ik-GODonXGcIMoheBuRXrcFfkiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989744808161-nk1ahtcc5app52ucce0nuicmqnu43noo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
