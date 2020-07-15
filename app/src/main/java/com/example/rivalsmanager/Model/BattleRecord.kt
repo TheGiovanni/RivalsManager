@@ -1,6 +1,6 @@
 package com.example.rivalsmanager.Model
 
-data class BattleRecordModel(
+data class BattleRecord(
     var id: String = "",
     var uId:String = "",
     var mDeckName: String = "",

@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">RivalsManager</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="signup">SignUp</string>
+    <string name="selectphoto">selectPhoto</string>
+    <string name="todo">TODO</string>
+    <string name="deck">TODO</string>
+    <string name="decklist">TODO</string>
 </resources>
